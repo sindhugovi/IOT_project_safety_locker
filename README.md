@@ -1,4 +1,5 @@
 Safe Security System with STM32 and ESP8266
+
 This project involves integrating an STM32 microcontroller with an ultrasonic sensor and OLED display, and an ESP8266 module with a keypad, LCD display, and a buzzer. All interactions are logged and monitored via Firebase, and alerts are displayed on an Android application.
 Features
 Object Detection: Ultrasonic sensor measures distance in cm and triggers an alert if the distance is less than 10 cm.
