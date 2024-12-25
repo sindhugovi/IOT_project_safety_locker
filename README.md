@@ -11,6 +11,7 @@ Cloud Integration:
 Logs all events to Firebase for real-time monitoring.
 Android App Monitoring:
 Displays alerts and logs recent activity.
+
 Components Required
 
 •	STM32 microcontroller
